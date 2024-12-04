@@ -1,5 +1,4 @@
 import fs from "fs";
-import { arrayBuffer } from "stream/consumers";
 
 const path = "inputs/day3input.txt";
 
